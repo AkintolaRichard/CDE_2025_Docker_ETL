@@ -71,8 +71,8 @@ This will:
 
 * **Host**: `my_postgres_server`
 * **Port**: `5432`
-* **User**: `postgres` (default from `export_var.sh`)
-* **Password**: `pass` (default from `export_var.sh`)
+* **User**: `cdeassgn` (default from `export_var.sh`)
+* **Password**: `password` (default from `export_var.sh`)
 * **Database**: `cdedockdb`
 
 The ETL pipeline loads data into the table:
