@@ -18,7 +18,6 @@ The pipeline extracts a GDP dataset (CSV) from a public URL, transforms it (clea
 ├── Dockerfile                # Python app container definition
 ├── requirements.txt          # Python dependencies
 ├── utils.py                  # ETL helper functions
-├── etl_pipeline.py           # Extract, transform, load logic
 ├── run_etl_pipeline.py       # Main entrypoint for pipeline
 ├── export_var.sh             # Environment variable definitions
 ├── docker_pipeline_script.sh # Orchestrates the full pipeline setup
